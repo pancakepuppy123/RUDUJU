@@ -1,0 +1,10 @@
+sceneSetups:
+- path: Assets/begining/initialization.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/begining/StudioLogo.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/begining/Title.unity
+  isLoaded: 1
+  isActive: 0
